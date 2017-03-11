@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: IPChange, Configuration: Debug Any CPU ------
+1>  IPChange -> C:\Users\ahenderson\Desktop\IPChange\IPChange\bin\Debug\IPChange.exe
+2>------ Build started: Project: Network Configurator, Configuration: DVD-5 ------
+2>The project is up-to-date.========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
